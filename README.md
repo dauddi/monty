@@ -1,0 +1,11 @@
+basic_linked_list_functions.c
+calculations.c
+execute.c
+helpers.c
+main.c
+monty.h
+move_elements_functions.c
+nopandqueue.c
+print_functions.c
+push_and_pop.c
+README.md
